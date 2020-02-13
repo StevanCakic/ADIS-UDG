@@ -1,5 +1,8 @@
 # Petlje, nastavak
 
+# Naci proizovod brojeva djeljivih sa 3, a ne sa 6 u intervalu od 1 do n
+
+
 # Zadatak 5
 # Odraditi i sa for i sa while petljom
 
@@ -23,6 +26,14 @@
 
 # Drugi dio
 # Metode za liste
+
+# Zadatak 7
+
+'''
+Kvadrirati sve neparne elemente liste
+'''
+
+
 
 # Kreiranje matrice
 
