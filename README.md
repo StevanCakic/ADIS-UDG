@@ -20,3 +20,16 @@ Vjezbe iz predmeta Analiza i dizajn IS - UDG
 - Print formatting
 - Komentari
 - Lista korisnih funkcija
+
+## Nedelja 2 (4 casa)
+- Liste
+- Torke
+- Funkcije
+- Zadaci
+
+# Nedelja 4
+- Dictionaries
+- Sets (skupovi)
+- List comprenhension
+- Rad sa fajlovima
+- Zadaci
