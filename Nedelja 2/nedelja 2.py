@@ -188,6 +188,3 @@ def print_country(country=None):
 
 print_country("France")
 
-# Dictionaries
-
-# Skupovi
