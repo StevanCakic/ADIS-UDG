@@ -27,7 +27,7 @@ Vjezbe iz predmeta Analiza i dizajn IS - UDG
 - Funkcije
 - Zadaci
 
-# Nedelja 4
+## Nedelja 4
 - Dictionaries
 - Sets (skupovi)
 - List comprenhension
