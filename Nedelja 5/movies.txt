@@ -1,0 +1,7 @@
+The Godfather;9.1;1972;drama,crime
+Lord of the rings: the return of the king;8.9;2004;adventure
+The social network;7.7;2010;drama
+Pulp fiction;8.9;1994;crime,drama
+A beautiful mind;8.2;2001;biography,drama
+The Godfather;9.1;1972;drama,crime
+Lord of the rings: the return of the king;8.9;2004;adventure
