@@ -4,7 +4,14 @@
 # Iz fajlova brojevi.txt izdvojiti sve dvocifrene i trocifrene brojeve
 # i upisati ih u novi fajl odabrani_brojevi.txt
 
-# Zadatak 2:
+# Zadatak 2
+# U fajlu studenti nalazi se lista studenata sa ocjenama za zadati predmet.
+# (A - 10, B - 9, C - 8, D - 7, E - 6, F - 5)
+# Napisati funkciju koja vraca prosjecnu ocjenu ostvarenu na ispitu.
+# E [6 - 6.5), D [6.5, 7.5), C [7.5, 8.5), B [8.5, 9.5), A [9.5, 10]
+# Studente koji su dobili ocjenu F ne ukljucivati u prosjek
+
+# Zadatak 3
 
 # Kreirati fajl movies.txt u kome se svaki film, pojedinacno, cuva u jednom redu,
 # tj. ako imate unos od 5 filmova, fajl treba da sadrzi 5 linija. 
@@ -24,7 +31,7 @@
 # Preporuka, koristiti list comprehension, funkcija za konverziju stringa u torku je tuple
 # Hint: tup = tuple(some_str.split(",")) - konvertuje npr. "abcd,abbccd" -> ("abcd","abbccd")
 
-# Zadatak 3
+# Zadatak 4
 
 # Nakon filtriranja filmova, omoguciti korisniku da doda novi film (ne dozvoliti da unese pogresan)
 # Npr. postavite mu pitanje, da li zelite da dodate novi film, pa nakon uspjesnog dodavanja
