@@ -33,3 +33,7 @@ Vjezbe iz predmeta Analiza i dizajn IS - UDG
 - List comprenhension
 - Rad sa fajlovima
 - Zadaci
+
+## Nedelja 5
+- Fajlovi, vjezbanje
+- Matrice
