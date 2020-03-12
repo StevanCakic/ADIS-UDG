@@ -1,0 +1,6 @@
+1,Nikola,Ivanovic,2,1
+1,Nikola,Ivanovic,4,1
+2,Bozo,Simovic,1,1
+3,Nikola,Perunovic,4,1
+3,Nikola,Perunovic,5,0
+4,Davor,Ilincic,1,1
