@@ -5,6 +5,7 @@ def average(lista):
         suma += element
     return suma / len(lista)
 
+# Standardna devijacija (za G2 samo ukloniti ** 0.5 iz return)
 def standard_dev(lista, average, n):
     suma = 0
     for element in lista:
