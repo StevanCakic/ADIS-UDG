@@ -37,3 +37,6 @@ Vjezbe iz predmeta Analiza i dizajn IS - UDG
 ## Nedelja 5
 - Fajlovi, vjezbanje
 - Matrice
+
+## Nedelja 6
+- Test 1
