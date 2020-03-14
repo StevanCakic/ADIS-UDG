@@ -40,3 +40,8 @@ Vjezbe iz predmeta Analiza i dizajn IS - UDG
 
 ## Nedelja 6
 - Test 1
+
+## Nedelja 7
+- Izuzeci
+- Funkcionalno programiranje
+- Scope
