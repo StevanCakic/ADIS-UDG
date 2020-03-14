@@ -1,4 +1,0 @@
-# Exceptions
-
-# Functional programming
-
