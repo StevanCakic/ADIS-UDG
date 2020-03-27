@@ -1,21 +1,26 @@
 class Book:
     def __init__(self, title, author, pages):
         print("Book has been created")
-        self.title = title
-        self.author = author
-        self.pages = pages
+        self.__title = title
+        self.__author = author
+        self.__pages = pages
+
     def __str__(self):
-        return f'Naslov: {self.title}, Autor: {self.author}, Broj stranica: {self.pages}'
+        return f'Naslov: {self.__title}, Autor: {self.__author}, Broj stranica: {self.__pages}'
+    
     def __len__(self):
-        return self.pages
+        return self.__pages
     
     def __del__(self):
-        print(self.title)
+        print(self.__title)
         print("Book has been deleted")
     
     def __eq__(self, other):
         print("Calling equal")
-        return self.title == other.title and self.author == other.author
+        return self.__title == other.__title and self.__author == other.__author
+    
+    def __lt__(self, other):
+        return self.__pages < other.__pages
 
 
 book1 = Book("Uvod u programiranje", "Marko Markovic", 240)
@@ -35,3 +40,4 @@ print(len(book2))
 # del book2
 
 print(book1 == book2)
+print(book1 < book2)

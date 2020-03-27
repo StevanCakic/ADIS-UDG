@@ -55,11 +55,12 @@ print(ac2.get_red())
 def get_from_csv():
     import csv
 
-    with open("color.csv", "r", newline="") as f:
+    with open("color.csv", "r") as f:
         reader = csv.reader(f)
         header = next(reader)
+        print(header)
         lista = []
-        for i in reader:
+        for i in reader: # next(reader)
             instanca = AlphaColor(i[0], i[1], i[2], i[3])
             lista.append(instanca)
         return lista
