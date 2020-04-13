@@ -48,3 +48,11 @@ Vjezbe iz predmeta Analiza i dizajn IS - UDG
 
 ## Nedelja 9
 - OOP
+
+# Nedelja 10
+- Rekurzija
+- CSV fajlovi
+
+# Nedelja 11
+- JSON
+- urllib
