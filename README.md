@@ -46,13 +46,25 @@ Vjezbe iz predmeta Analiza i dizajn IS - UDG
 - Funkcionalno programiranje
 - Scope
 
+## Nedelja 8
+- Slobodna sedmica
+
 ## Nedelja 9
 - OOP
 
-# Nedelja 10
+## Nedelja 10
 - Rekurzija
 - CSV fajlovi
 
-# Nedelja 11
+## Nedelja 11
 - JSON
 - urllib
+
+## Nedelja 12
+- Test 2
+
+## Nedelja 13
+- Python primjena
+
+## Nedelja 14
+- Youtube materijal
