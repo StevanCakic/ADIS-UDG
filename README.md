@@ -45,3 +45,6 @@ Vjezbe iz predmeta Analiza i dizajn IS - UDG
 - Izuzeci
 - Funkcionalno programiranje
 - Scope
+
+## Nedelja 9
+- OOP
